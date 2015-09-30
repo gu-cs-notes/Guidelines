@@ -23,13 +23,3 @@ page:
 editor: gvim
 git:
   branch: master
-
-# Declaring the plugins we use
-gems:
-- fullwidth
-- main_column_img
-- margin_figure
-- marginnote
-- mathjaxtag
-- newthought
-- sidenote
