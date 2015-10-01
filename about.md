@@ -4,15 +4,12 @@ title: About
 ---
 
 <p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Hi there! Welcome to GU-CS-Notes!
 </p>
 
-## About BlackDoc Theme
+## About GU-CS-Notes
+This is a project for creating a collaborative set of notes for lectures. A class of people can all contribute and edit each other's notes through the year in [Markdown](https://daringfireball.net/projects/markdown/). At the end of it all, exams come around and everyone's lecture notes are freely available in a pretty format online for the class to use. 
 
-Some relevant information about this project:
+Specifically, this project is aimed at the Level 4 Computing Science students for Glasgow University. 
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Theme based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme
-* Ideal for sites requiring master-detail layout such as documentation, cheatsheets, lyrics, notes, etc.
-* Need a beautiful color scheme for black background? Then you will love BlackDoc theme.
-
+More on this page as it develops!
