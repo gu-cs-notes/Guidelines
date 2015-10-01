@@ -5,7 +5,7 @@ title: Theme Styles
 
 
 <p class="message">
-This is left over from the original theme, [Karloespiritu's BlackDoc](https://github.com/karloespiritu/BlackDoc)! It seemed useful, so I've left it in for now. As this project grows, I'll edit this so it contains relevant and helpful information. I'll also move these message classes to a Liquid tag, [unless some Ruby convert can get there first...](http://github.com/gu-cs-notes/Guidelines/)
+This is left over from the original theme, [Karloespiritu's BlackDoc](https://github.com/karloespiritu/BlackDoc/)! It seemed useful, so I've left it in for now. As this project grows, I'll edit this so it contains relevant and helpful information. I'll also move these message classes to a Liquid tag, [unless some Ruby convert can get there first...](http://github.com/gu-cs-notes/Guidelines/)
 </p>
 
 
