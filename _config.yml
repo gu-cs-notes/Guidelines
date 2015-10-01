@@ -11,7 +11,7 @@ title:            Guidelines
 tagline:          Notes on making CS notes
 description:      "A set of notes for making notes on CS through the year."
 url:              https://github.com/gu-cs-notes/Guidelines
-baseurl:          /
+baseurl:          /Guidelines
 
 author:
   name:           'Tom Wallis'
