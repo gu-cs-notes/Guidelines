@@ -3,28 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi! This is a guideline for setting up a GU-CS-Notes page. 
+GU-CS-Notes is a collection of Glasgow University lecture notes from Computing Science classes. The GU-CS-Notes project itself is a Github organisation, containing a repository for each course. 
+In each repository, the source for a website is stored. The sites are Jekyll blogs, and the benefits of this are twofold:
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+1. We can collaborate on lecture notes together by writing Markdown documents, which are easy to read and write (they're just plaintext with special characters), and are converted into HTML and intelligently displayed by Jekyll. 
+2. Using Jekyll for the site means it can be hosted free via Github Pages, and accessed via the url `http://gu-cs-notes.github.io/REPO-NAME-HERE`. 
 
-There are currently two themes built on Poole:
+Free hosting, easy editing, and sharing notes in a pretty way are three great tastes that taste great together. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+This is in a super early state (see the version number of the code!), but in the future, there'll be a general version of this site with instructions that make it easy to just copy the code, tweak a couple of settings, and get adding content. The changes are very minimal; two or three changes to some lines of YAML in [the settings](https://github.com/gu-cs-notes/Guidelines/blob/gh-pages/_config.yml), and you're good to go. I'll write up useful things to know about Jekyll at the same time, so everyone understands what's actually going on. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
