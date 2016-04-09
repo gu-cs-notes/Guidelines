@@ -1,7 +1,10 @@
 ---
 layout: page
 title: About
+url: http://gu-cs-notes.github.io/Guidelines/about
 ---
+
+
 
 Hi! This is a guideline for setting up a GU-CS-Notes page. 
 GU-CS-Notes is a collection of Glasgow University lecture notes from Computing Science classes. The GU-CS-Notes project itself is a Github organisation, containing a repository for each course. 
