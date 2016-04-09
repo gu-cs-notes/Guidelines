@@ -4,12 +4,27 @@ title: About
 ---
 
 <p class="message">
-Hi there! Welcome to GU-CS-Notes!
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-## About GU-CS-Notes
-This is a project for creating a collaborative set of notes for lectures. A class of people can all contribute and edit each other's notes through the year in [Markdown](https://daringfireball.net/projects/markdown/). At the end of it all, exams come around and everyone's lecture notes are freely available in a pretty format online for the class to use. 
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-Specifically, this project is aimed at the Level 4 Computing Science students for Glasgow University. 
+There are currently two themes built on Poole:
 
-More on this page as it develops!
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
+
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
