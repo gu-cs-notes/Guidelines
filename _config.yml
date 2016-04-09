@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Guidelines 
 tagline:          'Guidelines for using GU-CS-Notes'
 description:      'A set of guidelines for interacting with the gu cs notes repos, and some details to get started with.'
-url:              http://gu-cs-notes.github.io/
+url:              http://gu-cs-notes.github.io/Guidelines
 baseurl:          /Guidelines				# Note! This should be the repo title preceded by a forward slash, but not followed by one! For example, the baseurl for AI4 is "/AI4"
 
 
